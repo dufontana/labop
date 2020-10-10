@@ -1,15 +1,15 @@
 Escoamento em leito poroso,Escoamento em leito poroso,Escoamento em leito poroso,Escoamento em leito poroso,Escoamento em leito poroso,Escoamento em leito poroso
-Ida,Q (L/min),Δh (mm),m (g),m (g),m (g)
-Ida,1,40,559.3,567,591.4
-Ida,1.5,63,795.8,764.3,835.6
-Ida,2,82,954,974.4,1031.9
-Ida,2.5,118,1161,1183.7,1199.4
-Ida,3,148,1382.5,1450.1,1389.9
-Ida,3.5,185,1632.3,1808.7,1630.5
-Ida,4,234,1901.6,1894.8,1884.6
-Ida,4.5,282,1052.8,1056,1077.3
-Ida,5,352,1248,1208.7,1227.3
-Ida,5.5,407,1349.6,1359.2,1388.8
+Primeira Ida,Q (L/min),Δh (mm),m (g),m (g),m (g)
+Primeira Ida,1,40,559.3,567,591.4
+Primeira Ida,1.5,63,795.8,764.3,835.6
+Primeira Ida,2,82,954,974.4,1031.9
+Primeira Ida,2.5,118,1161,1183.7,1199.4
+Primeira Ida,3,148,1382.5,1450.1,1389.9
+Primeira Ida,3.5,185,1632.3,1808.7,1630.5
+Primeira Ida,4,234,1901.6,1894.8,1884.6
+Primeira Ida,4.5,282,1052.8,1056,1077.3
+Primeira Ida,5,352,1248,1208.7,1227.3
+Primeira Ida,5.5,407,1349.6,1359.2,1388.8
 Volta,5.5,414,,,
 Volta,5,350,,,
 Volta,4.5,287,,,
@@ -20,13 +20,13 @@ Volta,2.5,128,,,
 Volta,2,101,,,
 Volta,1.5,74,,,
 Volta,1,48,,,
-Ida,1,47,,,
-Ida,1.5,67,,,
-Ida,2,97,,,
-Ida,2.5,126,,,
-Ida,3,158,,,
-Ida,3.5,200,,,
-Ida,4,249,,,
-Ida,4.5,301,,,
-Ida,5,365,,,
-Ida,5.5,427,,,
+Segunda Ida,1,47,,,
+Segunda Ida,1.5,67,,,
+Segunda Ida,2,97,,,
+Segunda Ida,2.5,126,,,
+Segunda Ida,3,158,,,
+Segunda Ida,3.5,200,,,
+Segunda Ida,4,249,,,
+Segunda Ida,4.5,301,,,
+Segunda Ida,5,365,,,
+Segunda Ida,5.5,427,,,
