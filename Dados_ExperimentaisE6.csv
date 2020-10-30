@@ -1,5 +1,5 @@
-,ida,ida,volta,volta
-Vazão (l/min),Altura (mm),Delta h(cm),Altura (mm),Delta h(cm)
+Vazão (l/min),ida,ida,volta,volta
+,Altura (mm),Delta h(cm),Altura (mm),Delta h(cm)
 0,490,0,490,0
 1,490,10.5,490,11
 1.5,490,19.5,490,17.6
